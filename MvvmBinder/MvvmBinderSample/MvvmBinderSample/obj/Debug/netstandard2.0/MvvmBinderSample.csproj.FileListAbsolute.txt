@@ -1,0 +1,11 @@
+E:\Source\Repos\MvvmBinder\MvvmBinderSample\MvvmBinderSample\bin\Debug\netstandard2.0\MvvmBinderSample.deps.json
+E:\Source\Repos\MvvmBinder\MvvmBinderSample\MvvmBinderSample\bin\Debug\netstandard2.0\MvvmBinderSample.dll
+E:\Source\Repos\MvvmBinder\MvvmBinderSample\MvvmBinderSample\bin\Debug\netstandard2.0\MvvmBinderSample.pdb
+E:\Source\Repos\MvvmBinder\MvvmBinderSample\MvvmBinderSample\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Source\Repos\MvvmBinder\MvvmBinderSample\MvvmBinderSample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Source\Repos\MvvmBinder\MvvmBinderSample\MvvmBinderSample\obj\Debug\netstandard2.0\MvvmBinderSample.csproj.CoreCompileInputs.cache
+E:\Source\Repos\MvvmBinder\MvvmBinderSample\MvvmBinderSample\obj\Debug\netstandard2.0\MvvmBinderSample.AssemblyInfoInputs.cache
+E:\Source\Repos\MvvmBinder\MvvmBinderSample\MvvmBinderSample\obj\Debug\netstandard2.0\MvvmBinderSample.AssemblyInfo.cs
+E:\Source\Repos\MvvmBinder\MvvmBinderSample\MvvmBinderSample\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Source\Repos\MvvmBinder\MvvmBinderSample\MvvmBinderSample\obj\Debug\netstandard2.0\MvvmBinderSample.dll
+E:\Source\Repos\MvvmBinder\MvvmBinderSample\MvvmBinderSample\obj\Debug\netstandard2.0\MvvmBinderSample.pdb

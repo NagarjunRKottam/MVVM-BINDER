@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MvvmBinder</id>
+    <version>1.0.0.2</version>
+	<title>MVVM Binder for Xamarin and Windows</title>
+    <authors>Nagarjuna Reddy Kottam</authors>
+    <owners>Nagarjuna Reddy Kottam</owners>
+    <licenseUrl>https://github.com/</licenseUrl>
+    <projectUrl>https://github.com/</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>MvvmBinder supports Xamarin.iOS, Xamarin.Android, Xamarin.Mac, Xamarin.Forms, Universal Windows Platform (UWP) and Windows Presentation Framework (WPF).</description>
+    <releaseNotes>MvvmBinder supports Xamarin.iOS, Xamarin.Android, Xamarin.Mac, Xamarin.Forms, Universal Windows Platform (UWP) and Windows Presentation Framework (WPF).</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>MvvmBinder, mvvm, view model, grouping, xamarin, pcl, xam.pcl, plugin, plugin for xamarin, windows phone, winphone, wp8, winrt, android, xamarin.forms, ios</tags>
+	<dependencies>
+         <group targetFramework="net">
+         </group>
+         <group targetFramework="win">
+         </group>
+         <group targetFramework="wp">
+         </group>
+         <group targetFramework="wpa">
+         </group>
+         <group targetFramework="netstandard2.0">
+            <dependency id="NETStandard.Library" version="2.0.3" />
+         </group>
+         <group targetFramework="MonoAndroid10">
+         </group>
+         <group targetFramework="Xamarin.iOS10">
+         </group>
+         <group targetFramework="Xamarin.Mac20">
+         </group>
+         <group targetFramework="portable-net45+win+wpa81+wp80">
+         </group>
+         <group targetFramework="uap">
+         </group>
+         <group targetFramework="dotnet">
+         </group>
+         <group targetFramework="xamarintvos">
+         </group>
+         <group targetFramework="xamarinwatchos">
+         </group>
+</dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Debug\netstandard2.0\MvvmBinder.*" target="lib\netstandard2.0"></file>
+  </files>
+</package>
